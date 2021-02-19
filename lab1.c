@@ -9,6 +9,9 @@
 #include <stdlib.h>
 #include "lab1.h"
 
+int new;
+
+
 void reverse(int num){
     int tens = 0, hundreds = 0, units = 0;
     
